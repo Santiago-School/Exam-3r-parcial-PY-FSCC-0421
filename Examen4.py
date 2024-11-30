@@ -24,11 +24,20 @@ class calculadora:
             return self.num1 / self.num2
         else:
             return "padre, no se puede dividir entre 0"
-
-# creamos una calculadora de ejemplo
-calc = calculadora(12, 6)
-print("suma:", calc.suma())
-print("resta:", calc.resta())
-print("multiplicacion:", calc.multiplicacion())
-print("division:", calc.division())
+# Pedir los datos al usuario
+try:
+    num1 = float(input("introduce el primer numero: "))
+    num2 = float(input("introduce el segundo numero: "))
+    
+    # Crear una calculadora con los nemeros introducidos
+    calc = calculadora(num1, num2)
+    
+    # Mostrar los resultados de las operaciones
+    print("suma:", calc.suma())
+    print("resta:", calc.resta())
+    print("multiplicacion:", calc.multiplicacion())
+    print("division:", calc.division())
+    print(" ")
+except ValueError:
+    print("Por favor, ingresa valores numericos validos")
 print(" ")
