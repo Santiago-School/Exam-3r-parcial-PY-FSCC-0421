@@ -12,15 +12,17 @@ Practica 2:
 
 
 Practica 3:
+
 ![image](https://github.com/user-attachments/assets/1991c420-0c3c-4630-b6f8-c31be7d2618a)
 ![image](https://github.com/user-attachments/assets/59ddc23c-c6e4-4be1-bc9f-0df777c19f02)
 
 Practica 4: 
 
-![image](https://github.com/user-attachments/assets/8c12bbfb-c5cc-41d0-b71c-ca136c33f3a7)
-![image](https://github.com/user-attachments/assets/5666021c-c67d-48ef-b65e-85bd18ac94ec)
+![image](https://github.com/user-attachments/assets/b9ef38bd-d13e-4940-9ee4-061902bc2eb3)
+![image](https://github.com/user-attachments/assets/e7a8cf3d-2ede-457b-8bd5-583926e8b56f)
+
 
 Practica 5:
+![image](https://github.com/user-attachments/assets/45593755-05d1-442c-b349-37b7c4f14d15)
+![image](https://github.com/user-attachments/assets/913973da-9a03-4920-9bfb-2b29e2215329)
 
-![image](https://github.com/user-attachments/assets/24481b4c-9143-4c1f-973e-5eda971c0569)
-![image](https://github.com/user-attachments/assets/b7344c44-9c51-4867-b011-f04cfa9d3bce)
